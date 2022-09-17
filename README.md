@@ -34,3 +34,15 @@ Dataset Exploration-https://us3.ca.analytics.ibm.com/bi/?perspective=explore&pat
 Dataset visualization-https://us3.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2F50STARTUP%2528DATA%2BVISULAIZATION%2529&subView=starting%20points
 
 
+
+
+# IBM-Project-29899-1660133258
+THUMMALA VYSHNAVI
+
+Estimate the crop yield using Data Analytics
+Dataset Link - https://drive.google.com/drive/folders/1x5dp_M4q6QKJSPpSEDR5r2zFy3vBcrb9
+
+Dataset exploration: https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FNew%2Bexploration&subView=model0000018345186729_00000003
+
+Data visuvalization
+https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FNew%2Bexploration&subView=model000001834a740a21_00000004
